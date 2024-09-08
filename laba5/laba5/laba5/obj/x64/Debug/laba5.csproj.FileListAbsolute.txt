@@ -1,0 +1,11 @@
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\bin\x64\Debug\Students.accdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\bin\x64\Debug\laba5.exe.config
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\bin\x64\Debug\laba5.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\bin\x64\Debug\laba5.pdb
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.csproj.AssemblyReference.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.Form1.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.Properties.Resources.resources
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.csproj.GenerateResource.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.exe
+C:\Users\Bulat\Desktop\Stud\6 семак\технология программирования\laba5\laba5\laba5\obj\x64\Debug\laba5.pdb

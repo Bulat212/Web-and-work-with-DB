@@ -1,0 +1,26 @@
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+<body>
+    <div>
+        <center>
+            <h3>Количество студентов на этом курсе</h3>
+        </center>
+        <form method="post" action="">
+            <input type="hidden" value="@ViewBag.text" name="Text" />
+            <table>
+                <tr>
+                    <td><p> @ViewBag.text </p></td>
+                </tr>
+            </table>
+            <a href="/Home/Index">Вернуться назад</a>
+        </form>
+    </div>
+</body>
+</html>

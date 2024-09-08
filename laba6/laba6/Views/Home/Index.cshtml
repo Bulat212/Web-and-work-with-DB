@@ -1,0 +1,31 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Список курсов, на которых есть студенты</title>
+</head>
+<body>
+    <div>
+        <center>
+
+            <h3>Список курсов</h3>
+        </center>
+        <table>
+            <tr>
+                <td><p>Курсы</p></td>
+            </tr>
+
+            @foreach (var course in ViewBag.Course)
+            {
+                    <tr>
+                        <td><p><a href="/Home/Count?course=@course">@course</a></p></td>
+                    </tr>
+            }
+        </table>
+
+    </div>
+</body>
+</html>
